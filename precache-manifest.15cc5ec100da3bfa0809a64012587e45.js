@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9f8a954ce634e4d5fa907de65ae28af",
+    "revision": "6606d83715954d8ac50f9245451e83bb",
     "url": "/react-alegram/index.html"
   },
   {
-    "revision": "1ca0ea5a382e9540cfba",
-    "url": "/react-alegram/static/css/main.8935506f.chunk.css"
+    "revision": "4d6b6d60ea57e1c5f5d2",
+    "url": "/react-alegram/static/css/main.ead56b9f.chunk.css"
   },
   {
     "revision": "0d8338dcd1d87cd19fb4",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-alegram/static/js/2.72639b62.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ca0ea5a382e9540cfba",
-    "url": "/react-alegram/static/js/main.30b644db.chunk.js"
+    "revision": "4d6b6d60ea57e1c5f5d2",
+    "url": "/react-alegram/static/js/main.31715bf4.chunk.js"
   },
   {
     "revision": "c7c44f71833ad58ef376",

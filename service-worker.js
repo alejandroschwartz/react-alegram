@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-alegram/precache-manifest.653f897cc0a325f7900d5163bbcaf60c.js"
+  "/react-alegram/precache-manifest.15cc5ec100da3bfa0809a64012587e45.js"
 );
 
 self.addEventListener('message', (event) => {
